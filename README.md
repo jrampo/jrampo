@@ -9,4 +9,4 @@
 
 ## Contato
 - 📫 [Meu portfólio](https://joaorampo-portfolio-three.vercel.app)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jrampo/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jrampo/)
