@@ -1,29 +1,14 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, me chamo João! 👋
 
 ## Sobre mim
-- 👨‍💻 Desenvolvedor apaixonado por tecnologia e programação.
-- 🎓 Graduado em [Área de Formação] na [Universidade].
-- 🌱 Atualmente aprendendo [Tecnologias ou Habilidades que está estudando].
-- 💼 Trabalhando como [Cargo ou Área] na [Empresa/Organização].
-
-## Minhas habilidades e interesses
-- 💻 Desenvolvimento de software, incluindo [Tecnologias que domina].
-- 📱 Desenvolvimento de aplicativos móveis com [Plataformas ou Tecnologias].
-- 🌐 Desenvolvimento web utilizando [Ferramentas ou Frameworks].
+- 👨‍💻 Desenvolvedor front-end.
+- 🎓 Graduando Desenvolvimento Front-End na EBAC.
+- 🌱 Atualmente aprendendo React e VueJS.
 
 ## Estatísticas do GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrampo&layout=compact&theme=dark)](https://github.com/seu-usuario/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrampo&layout=compact&theme=dark)
 ![Seu Nome no GitHub](https://github-readme-stats.vercel.app/api?username=jrampo&show_icons=true&theme=dark)
 
 ## Contato
-- 📫 Como chegar até mim: [Inserir seu LinkedIn ou outro perfil profissional]
-
-## Projetos destacados
-- 🔧 [Projeto 1]: Breve descrição ou link para o projeto.
-- 🔧 [Projeto 2]: Breve descrição ou link para o projeto.
-- 🔧 [Projeto 3]: Breve descrição ou link para o projeto.
-
-## Interesses adicionais
-- 📚 Leitura de livros sobre [Assunto que você gosta].
-- 🎵 Apaixonado por música [Gênero favorito].
+- 📫 Meu portfólio: [joaorampo-portfolio-three.vercel.app](https://joaorampo-portfolio-three.vercel.app)
+- 🔗 LinkedIn: [joao-linkedin](https://www.linkedin.com/in/joao-linkedin/)
