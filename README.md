@@ -10,5 +10,5 @@
 ![Seu Nome no GitHub](https://github-readme-stats.vercel.app/api?username=jrampo&show_icons=true&theme=dark)
 
 ## Contato
-- 📫 Meu portfólio: [joaorampo-portfolio-three.vercel.app](https://joaorampo-portfolio-three.vercel.app)
-- 🔗 LinkedIn: [joao-linkedin](https://www.linkedin.com/in/joao-linkedin/)
+- 📫 [Meu portfólio](https://joaorampo-portfolio-three.vercel.app)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jrampo/)
