@@ -12,9 +12,9 @@
 - 🌐 Desenvolvimento web utilizando [Ferramentas ou Frameworks].
 
 ## Estatísticas do GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrampo&layout=compact)](https://github.com/seu-usuario/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrampo&layout=compact&theme=dark)](https://github.com/seu-usuario/github-readme-stats)
 
-![Seu Nome no GitHub](https://github-readme-stats.vercel.app/api?username=jrampo&show_icons=true)
+![Seu Nome no GitHub](https://github-readme-stats.vercel.app/api?username=jrampo&show_icons=true&theme=dark)
 
 ## Contato
 - 📫 Como chegar até mim: [Inserir seu LinkedIn ou outro perfil profissional]
@@ -27,4 +27,3 @@
 ## Interesses adicionais
 - 📚 Leitura de livros sobre [Assunto que você gosta].
 - 🎵 Apaixonado por música [Gênero favorito].
-
