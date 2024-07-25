@@ -1,6 +1,6 @@
 # Olá, me chamo João! 👋
 
-## Sobre mim
+---
 - 👨‍💻 Desenvolvedor front-end.
 - 🎓 Graduando Desenvolvimento Front-End na EBAC.
 
