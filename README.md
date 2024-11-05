@@ -2,7 +2,7 @@
 
 ---
 - 👨‍💻 Desenvolvedor front-end.
-- 🎓 Graduando Desenvolvimento Front-End na EBAC.
+- 🎓 Desenvolvedor Front-End pela EBAC.
 
 --- 
 ![Seu Nome no GitHub](https://github-readme-stats.vercel.app/api?username=jrampo&show_icons=true&theme=dark)
